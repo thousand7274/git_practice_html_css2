@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: red;
+  height: 100px;
+  width: 800px;
+}
+
+.sidebar {
+  float: left;
+  background-color: yellow;
+  height: 400px;
+  width: 200px;
+}
